@@ -1,0 +1,43 @@
+
+/* Styling khusus div pertama (kucing) */
+.box-kucing {
+    background-color: #fef2f2;
+    border: 2px solid #fca5a5;
+    padding: 16px;
+    border-radius: 8px;
+    margin-bottom: 12px;
+}
+
+/* Styling khusus div kedua (anjing) */
+.box-anjing {
+    background-color: #eff6ff;
+    border: 2px solid #93c5fd;
+    padding: 16px;
+    border-radius: 8px;
+    margin-bottom: 12px;
+}
+
+/* Styling khusus div ketiga (burung) */
+.box-burung {
+    background-color: #f0fdf4;
+    border: 2px solid #86efac;
+    padding: 16px;
+    border-radius: 8px;
+    margin-bottom: 12px;
+}
+
+
+.tabel-pesawat table {
+    font-family: Arial, Helvetica, sans-serif;
+    width: 100%;
+    border-collapse: collapse; 
+    margin-top: 16px;
+}
+
+
+.tabel-pesawat td {
+    border: 1px solid #cbd5e1; 
+    padding: 10px 14px;        
+    text-align: left;
+}
+
